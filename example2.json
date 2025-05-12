@@ -1,0 +1,12 @@
+{
+    "order": {
+      "id": 100,
+      "item": "Book",
+      "price": 12.99
+    },
+    "customer": {
+      "id": 200,
+      "name": "Bob"
+    }
+  }
+  
